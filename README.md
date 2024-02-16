@@ -5,4 +5,4 @@ Zachęcam do zapoznania się z dokumentacją, gdzie znaleźć można również i
 ENG:
 The project allows users to take on the roles of both a cinema client and a manager. As a client, one can browse schedules, check which movies are being shown in the cinema, and when. They can also purchase and cancel tickets, as well as view their history. There can be multiple customers, each with their own profile.
 The cinema manager has significant control over the schedules visible to customers. This role enables the addition, display, and removal of movies and cinema rooms. Additionally, the manager decides the opening hours of the cinema on specific days. They can manually add or remove movies and generate a new random schedule for a selected room, day, or the entire week. The last functionalities include resetting the entire schedule for a specific room, day, or the entire week, displaying schedules, and searching for when a particular movie is being shown.
-In documentation you can find user's manual.
+You can find user's manual in documentation, but unfortunately it's only avaiable in polish right now.
